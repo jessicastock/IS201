@@ -1,0 +1,22 @@
+body {
+    font-size: 1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(37, 37, 43);
+}
+
+main {
+    background-color: rgba(240, 240, 240, 0.925);
+}
+
+footer {
+    align-items: center;
+}
+li{
+    font-style: normal;
+    font-weight: normal;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
